@@ -1,9 +1,9 @@
 [package]
-name = "dragnit-schemes"
+name = "crimthy-dragnit-schemes"
 version = "0.1.0"
 authors = ["rostegg"]
 edition = "2018"
-repository = "https://github.com/crimthy/dragnit-schemes"
+repository = "https://github.com/crimthy/crimthy-dragnit-schemes"
 license = "MIT"
 description = "Crimthy schemes package (just magister project, don't use it)"
 
